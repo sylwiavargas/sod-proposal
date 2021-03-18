@@ -44,7 +44,7 @@ The Onboarding guide project will:
 - Using the friction log as a guide for understanding the gaps in the documentation, create updated documentation;
 - Create a `contributing.md` guide; 
 - Create a quick "cheat sheet" to help contributors new to pull requests and GitHub to help them be able to use our process;
-- Create a terminology "cheat sheet" to standarize the vocabulary used by team members and contributors alike;
+- Create a terminology "cheat sheet" to standardize the vocabulary used by team members and contributors alike;
 - Incorporate feedback from documentation testers (volunteers in the project), as well as one's experience of the onboarding;
 - Test the updated onboarding documentation on the new contributors joining the team.
 
