@@ -11,6 +11,7 @@
 - [About the Technical Writer](#about-the-technical-writer)
   - [Must-have qualities](#must-have)
   - [Nice-to-have qualities](#nice-to-have)
+- [Project budget](#project-budget)
 - [Contact](#contact)
 
 ---
@@ -88,6 +89,16 @@ Here are the skills we view as essential ("must-have"s) and additional ("nice-to
 
 ### Nice to have: 
 - Familiarity with our stack (Vue, MongoDB, TypeScript, Node, Postgres).
+
+---
+
+## Project Budget
+
+| Budget item  | Amount  |  Running Total | Notes  | 
+|---|---|---|---|
+| Technical writer audit, update, test, and publish new documentation | 1  | $5,000 | -  |
+| Volunteer stipends | 500  | 1,500  | 3 volunteer stipends x 500 each  |
+|   |   |   |   |
 
 ---
 
