@@ -96,8 +96,9 @@ Here are the skills we view as essential ("must-have"s) and additional ("nice-to
 
 | Budget item  | Amount  |  Running Total | Notes  | 
 |---|---|---|---|
-| Technical writer audit, update, test, and publish new documentation | 1  | $5,000 | -  |
+| Technical writer audit, update, test, and publish new documentation | $5,000  | $5,000 | -  |
 | Volunteer stipends | 500  | 1,500  | 3 volunteer stipends x 500 each  |
+| Swag | 150 | 150 | Shirts and Stickers w/ Season of Docs and UPchieve |
 |   |   |   |   |
 
 ---
